@@ -5,7 +5,8 @@
 - 🔭 Atualmente estou trabalhando como escritor e organizador de documentos e NF-e para Processos licitatorios em uma empresa a nível de lucro pressumido.
 - 🌱 Estou estudando no Instituto Federal de Goiás - Campus Inhumas // Curso: Bacharelado em engenharia de software.
 - 🔹Estou me dedicando á:            
-<i class="devicon-c-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+          
           
 - 👯 Procuro dar enfasse a área de software relacioanda ao automobilismo, entretanto, estou disposto e disponivel para adentrar em qualquer ramo.
 - 🤔 Preciso de ajuda se disponivel para contatos que possam me recomendar a um estagio e crescimento na carreira.
