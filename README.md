@@ -16,5 +16,5 @@
 - 📫 Voce pode me contatar pelo E-mail: <a href = "mailto:Guilhermealixanre8@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_guilherme_ags_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 - ⚡ Curiosidades: Sou um grande intusiasta de esportes automobilisticos, historia antiga e física quantica na sua parte teorica.
-  <div class="tenor-gif-embed" data-postid="20902822" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/space-gif-20902822">Space GIF</a>from <a href="https://tenor.com/search/space-gifs">Space GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
+  <div class="tenor-gif-embed" data-postid="20902822" data-share-method="host" data-aspect-ratio="1" data-width="100%">Space GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
