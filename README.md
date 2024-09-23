@@ -1,6 +1,6 @@
 🔹 Olá, Meu nome é Guilherme Alixandre Gonçalves Silva, mas pode me chamar de Gui 😅
 
-🔹Tenho 19 Anos e sou do Interior de Goias, Brasil, adentrei a pouco no campo da programação, mas estou me dedicando o maxímo possivel a minha carreira na área, conclui o ensino medio aos 17, adquiri alguma experiencia no mercado de trabalho como vendedor em estabelecimentos, costureiro, empresas de licitação governamentais, e atualmente como aprendiz na programação, ingressei na universidade em um curso de "Engenharia de software" onde tenho aprendido tudo ao meu alcance para me profissionalizar no ramo. 
+🔹Tenho 20 Anos e sou do Interior de Goias, Brasil, adentrei a pouco no campo da programação, mas estou me dedicando o maxímo possivel a minha carreira na área, conclui o ensino medio aos 17, adquiri alguma experiencia no mercado de trabalho como vendedor em estabelecimentos, costureiro, empresas de licitação governamentais, e atualmente como aprendiz na programação, ingressei na universidade em um curso de "Engenharia de software" onde tenho aprendido tudo ao meu alcance para me profissionalizar no ramo. 
 
 - 🔭 Atualmente estou trabalhando como escritor e organizador de documentos e NF-e para Processos licitatorios em uma empresa a nível de lucro pressumido.
   
