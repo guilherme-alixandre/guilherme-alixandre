@@ -7,7 +7,7 @@
 - 🌱 Estou estudando no Instituto Federal de Goiás - Campus Inhumas // Curso: Bacharelado em engenharia de software.
   
 - 🔹Estou me dedicando á:            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40"/>
       
 - 👯 Procuro dar enfasse a área de software relacioanda ao automobilismo, entretanto, estou disposto e disponivel para adentrar em qualquer ramo.
   
