@@ -1,19 +1,29 @@
-🔹 Olá, Meu nome é Guilherme Alixandre Gonçalves Silva, mas pode me chamar de Gui 😅
+🔹 Olá, Meu nome é Guilherme Alixandre Gonçalves Silva
 
-🔹Tenho 20 Anos e sou do Interior de Goias, Brasil, adentrei a pouco no campo da programação, mas estou me dedicando o maxímo possivel a minha carreira na área, conclui o ensino medio aos 17, adquiri alguma experiencia no mercado de trabalho como vendedor em estabelecimentos, costureiro, empresas de licitação governamentais, e atualmente como aprendiz na programação, ingressei na universidade em um curso de "Engenharia de software" onde tenho aprendido tudo ao meu alcance para me profissionalizar no ramo. 
+🔹Tenho 21 Anos e sou do Interior de Goias, Brasil, tenho dedicado meus dias ao aprendizado de tecnicas e conceitos de programação para garantir consistencia e entrega nas aplicações e projetos ao qual estou envolvido, meu objetivo e ser um desenvolvedor full         stack capaz de atender qualquer demanda, acreditando que sempre posso melhorar e buscando conviver bem com todo mundo ao meu redor pois sempre se aprende algo com alguem. Trabalho sobre a seguinte filosofia: não devemos ter vergonha de falhar, devemos ter          vergonha de não tentar
 
-- 🔭 Atualmente estou trabalhando como escritor e organizador de documentos e NF-e para Processos licitatorios em uma empresa a nível de lucro pressumido.
+🔹 🔭 Atualmente estou trabalhando como Estagiario/ Dev Jr. em um sistema de gestão empresarial, usando como base C# e ASP.NET (V. 4.8+), desenvovi por conta propria funções como:
+    - SMTP para controle de orçamentos.
+    - Interface com cards (HTML, CSS e JS)
+    - Lista de lançamentos financeiros com imagens de comprovantes e grupos de conta separados.
+    * Além de inumeros pequenos ajustes e correções de bugs em outros módulos.
   
-- 🌱 Estou estudando no Instituto Federal de Goiás - Campus Inhumas // Curso: Bacharelado em engenharia de software.
+🔹 🌱 Estou estudando no Instituto Federal de Goiás - Campus Inhumas // Curso: Bacharelado em engenharia de software - 5° Período (5/9).
   
-- 🔹Estou me dedicando á:            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40"/>
+🔹Estou me dedicando á:            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/>
       
 - 👯 Procuro dar enfasse a área de software relacioanda ao automobilismo, entretanto, estou disposto e disponivel para adentrar em qualquer ramo.
   
-- 🤔 Preciso de ajuda se disponivel para contatos que possam me recomendar a um estagio e crescimento na carreira.
-  
-- 📫 Voce pode me contatar pelo E-mail: <a href = "mailto:Guilhermealixanre8@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_guilherme_ags_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+🔹 📫 Voce pode me contatar pelo E-mail: <a href = "mailto:Guilhermealixanre89@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_guilherme_ags_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/guilherme-alixandre-1485832b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"> </a>
 
-- ⚡ Curiosidades: Sou um grande intusiasta de esportes automobilisticos, historia antiga e física quantica na sua parte teorica.
+- ⚡ Curiosidades: Sou um grande intusiasta de esportes automobilisticos, games, historia e física.
 
