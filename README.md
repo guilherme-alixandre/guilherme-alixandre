@@ -2,11 +2,11 @@
 
 🔹Tenho 21 Anos e sou do Interior de Goias, Brasil, tenho dedicado meus dias ao aprendizado de tecnicas e conceitos de programação para garantir consistencia e entrega nas aplicações e projetos ao qual estou envolvido, meu objetivo e ser um desenvolvedor full         stack capaz de atender qualquer demanda, acreditando que sempre posso melhorar e buscando conviver bem com todo mundo ao meu redor pois sempre se aprende algo com alguem. Trabalho sobre a seguinte filosofia: não devemos ter vergonha de falhar, devemos ter          vergonha de não tentar
 
-🔹 🔭 Atualmente estou trabalhando como Estagiario/ Dev Jr. em um sistema de gestão empresarial, usando como base C# e ASP.NET (V. 4.8+), desenvovi por conta propria funções como:
-    - SMTP para controle de orçamentos.
-    - Interface com cards (HTML, CSS e JS)
-    - Lista de lançamentos financeiros com imagens de comprovantes e grupos de conta separados.
-    * Além de inumeros pequenos ajustes e correções de bugs em outros módulos.
+🔹 🔭 Atualmente estou trabalhando como Estagiario/ Dev Jr. em um sistema de gestão empresarial, usando como base C# e ASP.NET (V. 4.8+), desenvovi por conta propria funções como:<br>
+    - SMTP para controle de orçamentos.<br>
+    - Interface com cards (HTML, CSS e JS)<br>
+    - Lista de lançamentos financeiros com imagens de comprovantes e grupos de conta separados.<br>
+    * Além de inumeros pequenos ajustes e correções de bugs em outros módulos.<br>
   
 🔹 🌱 Estou estudando no Instituto Federal de Goiás - Campus Inhumas // Curso: Bacharelado em engenharia de software - 5° Período (5/9).
   
