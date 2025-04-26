@@ -23,7 +23,7 @@
       
 - 👯 Procuro dar enfasse a área de software relacioanda ao automobilismo, entretanto, estou disposto e disponivel para adentrar em qualquer ramo.
   
-🔹 📫 Voce pode me contatar pelo E-mail: <a href = "mailto:Guilhermealixanre89@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_guilherme_ags_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/guilherme-alixandre-1485832b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"> </a>
+🔹 📫 Voce pode me contatar pelo E-mail: <a href = "mailto:Guilhermealixanre89@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_guilherme_ags_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/guilherme-alixandre-1485832b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"> </a>
 
 - ⚡ Curiosidades: Sou um grande intusiasta de esportes automobilisticos, games, historia e física.
 
