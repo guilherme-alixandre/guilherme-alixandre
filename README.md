@@ -1,7 +1,7 @@
 **Olá! 👋 Meu nome é Guilherme Alixandre Gonçalves Silva**
 
 <p align="center">
-  <img src="https://i.gifer.com/j0K.gif" width="300px" alt="GIF animado">
+  <img src="https://tenor.com/kNT8ESH3dIW.gif" width="300px" alt="GIF animado">
 </p>
 
 ---
