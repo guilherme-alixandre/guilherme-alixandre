@@ -1,7 +1,7 @@
 **Olá! 👋 Meu nome é Guilherme Alixandre Gonçalves Silva**
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/gm-goodmorning-good-morning-coffee-please-coffee-gif-18370531871863568106" width="300px" alt="Programador tomando café">
+  <img src="https://i.imgur.com/2Y4q9Hx.gif" width="300px" alt="Café e Programação">
 </p>
 
 ---
