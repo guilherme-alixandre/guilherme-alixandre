@@ -1,7 +1,7 @@
 **Olá! 👋 Meu nome é Guilherme Alixandre Gonçalves Silva**
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/YwW2M7K4xO8AAAAC/meme-coffee-morning-penguin-monday.gif" width="300px" alt="Café">
+  <img src="https://tenor.com/knt8esh3diw.gif" width="300px" alt="Café">
 </p>
 
 ---
