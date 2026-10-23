@@ -1,7 +1,7 @@
 **Olá! 👋 Meu nome é Guilherme Alixandre Gonçalves Silva**
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/41838863/file/original-e19956eb5b7f3d9b292ef0786e34a17a.gif" width="300px" alt="Programador tomando café">
+  <img src="https://media1.tenor.com/m/f3S87qH89iUAAAAC/gm-goodmorning.gif" width="300px" alt="Programador tomando café">
 </p>
 
 ---
