@@ -60,7 +60,7 @@
 </table>
   
 📫**Voce pode me contatar por:** <br>
-<p align="center">
+<p align="left">
   <a href="mailto:Guilhermealixanre89@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
